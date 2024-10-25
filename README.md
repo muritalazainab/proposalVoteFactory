@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+proposalVoteFactoryModule#ProposalVoteFactory - 0x38e0B0D232aeE9f418F225fDc6807Da93ee707bF
+
+  - https://sepolia.basescan.org/address/0x38e0B0D232aeE9f418F225fDc6807Da93ee707bF#code
+
